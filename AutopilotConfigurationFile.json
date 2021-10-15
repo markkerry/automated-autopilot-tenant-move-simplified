@@ -1,0 +1,15 @@
+{
+    "CloudAssignedDomainJoinMethod":  0,
+    "CloudAssignedDeviceName":  "LAP-%SERIAL%",
+    "CloudAssignedAutopilotUpdateTimeout":  1800000,
+    "CloudAssignedForcedEnrollment":  1,
+    "Version":  2049,
+    "CloudAssignedTenantId":  "tenant-id-here",
+    "CloudAssignedAutopilotUpdateDisabled":  1,
+    "ZtdCorrelationId":  "",
+    "Comment_File":  "Profile Autopilot User Driven Azure AD Join",
+    "CloudAssignedAadServerData":  "{\"ZeroTouchConfig\":{\"CloudAssignedTenantUpn\":\"\",\"ForcedEnrollment\":1,\"CloudAssignedTenantDomain\":\"fqdn\"}}",
+    "CloudAssignedOobeConfig":  1310,
+    "CloudAssignedTenantDomain":  "fqdn-here",
+    "CloudAssignedLanguage":  "os-default"
+}
