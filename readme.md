@@ -2,11 +2,7 @@
 
 ![Intune](Intune.png)
 
-Code for post tbc...
-
-<!--
-[markkerry.github.io - automated-autopilot-tenant-move-part2](https://markkerry.github.io/posts/automated-autopilot-tenant-move-part2/)
--->
+Code for post [markkerry.github.io - automated-autopilot-tenant-move-part2](https://markkerry.github.io/posts/2021/10/automated-autopilot-tenant-move-part2/)
 
 ## WARNING!!! RUNNING THIS SCRIPT WILL RESET YOUR OPERATING SYSTEM
 
